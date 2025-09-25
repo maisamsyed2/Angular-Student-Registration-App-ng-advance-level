@@ -1,0 +1,2 @@
+# Angular-Student-Registration-App-ng-advance-level
+two-way data binding  Form validation with error messages  Services for centralized data handling  Observables (BehaviorSubject) for reactive updates  Component communication via service streams  Custom Directive (uppercase input) and Custom Pipe (capitalize names)  Routing btw Add Student and Student List pages  Data persistence with localStorage
